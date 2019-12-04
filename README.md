@@ -2,7 +2,7 @@
 
 ### update details
 
-name:  
+name:  ruti kanner
 id:
 
 #### you have only to upload file "index.js" to repo.
